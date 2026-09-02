@@ -1,0 +1,2 @@
+OuterAngleDeg,InnerAngleDeg,RobustExceedancePercent,RobustAvailabilityPercent,Percentile99p9IOverNDb,MaximumIOverNDb,RetaskDutyPercent,ShutdownDutyPercent,Feasible
+27.5,9.5,0.0833101916134407,99.9166898083866,-6.45817098592193,-0.702850679543815,4.34675339239655,0.629661054793909,1
