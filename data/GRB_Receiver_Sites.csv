@@ -1,0 +1,13 @@
+Site,LatitudeDeg,LongitudeDeg,Satellite,FeedHeightM
+"Fairmont, WV",39.43361,-80.1928,GOES East,5
+"Fairmont, WV",39.43361,-80.1928,GOES West,5
+"Fairmont, WV",39.43361,-80.1928,GOES Backup,5
+"Sioux Falls, SD",43.73513,-96.6255,GOES West,7.4
+"Sioux Falls, SD",43.73513,-96.6255,GOES Backup,7.4
+"Sioux Falls, SD",43.73513,-96.6255,GOES East,7.4
+"Suitland, MD",38.85217,-76.9367,GOES East,24
+"Suitland, MD",38.85217,-76.9367,GOES West,24
+"Suitland, MD",38.85217,-76.9367,GOES Backup,24
+"Wallops, VA",37.94651,-75.4621,GOES East,5
+"Wallops, VA",37.94651,-75.4621,GOES West,5
+"Wallops, VA",37.94651,-75.4621,GOES Backup,5

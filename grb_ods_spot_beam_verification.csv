@@ -1,0 +1,13 @@
+Index,SiteId,Site,Satellite,ConfigurationPassed,LookupPassed,ResultPresent,ResultMetadataPassed,ResultCriterionPassed,AllPassed
+1,fairmont_wv_goes_east,"Fairmont, WV",GOES East,1,1,1,1,1,1
+2,fairmont_wv_goes_west,"Fairmont, WV",GOES West,1,1,1,1,1,1
+3,fairmont_wv_goes_backup,"Fairmont, WV",GOES Backup,1,1,1,1,1,1
+4,sioux_falls_sd_goes_west,"Sioux Falls, SD",GOES West,1,1,1,1,1,1
+5,sioux_falls_sd_goes_backup,"Sioux Falls, SD",GOES Backup,1,1,1,1,1,1
+6,sioux_falls_sd_goes_east,"Sioux Falls, SD",GOES East,1,1,1,1,1,1
+7,suitland_md_goes_east,"Suitland, MD",GOES East,1,1,1,1,1,1
+8,suitland_md_goes_west,"Suitland, MD",GOES West,1,1,1,1,1,1
+9,suitland_md_goes_backup,"Suitland, MD",GOES Backup,1,1,1,1,1,1
+10,wallops_va_goes_east,"Wallops, VA",GOES East,1,1,1,1,1,1
+11,wallops_va_goes_west,"Wallops, VA",GOES West,1,1,1,1,1,1
+12,wallops_va_goes_backup,"Wallops, VA",GOES Backup,1,1,1,1,1,1
